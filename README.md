@@ -1,6 +1,8 @@
 # Credit_Card_Transaction_analysis_and_prediction
 # Credit Card Spend Analysis & Forecasting
 
+Dataset: https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset
+
 ## 1. Introduction
 Credit card transactions generate vast amounts of data, providing valuable insights into customer spending patterns. Financial institutions and businesses can leverage this data to forecast future spending trends, optimize marketing strategies, and enhance customer experience.
 
